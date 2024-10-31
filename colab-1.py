@@ -15,3 +15,4 @@ endereco = input("Digite seu endereço: ")
 # git branch = visualizar as branch
 # git checkout -b = criar branch
 # git checkout nomeDaBranch = Trocar de branch
+# git merge nomeDaBranch = Para mudar o conteúdo da branch
