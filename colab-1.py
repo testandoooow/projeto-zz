@@ -14,3 +14,4 @@ endereco = input("Digite seu endereço: ")
 # git rebase --continue = atualizar
 # git branch = visualizar as branch
 # git checkout -b = criar branch
+# git checkout nomeDaBranch = Trocar de branch
